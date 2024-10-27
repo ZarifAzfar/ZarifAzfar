@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ZarifAzfar, a CS student from Malaysia
-- 👀 I’m familiar with UI/UX Design|Web Dev|Front-end Programming
-- 🌱 I’m currently looking to develop my skill and learn.I’m very interested to collaborate on any project
+- 👋 Hi, I’m @ZarifAzfar, an Intelligent System Engineering graduate from Malaysia
+- 👀 Into AI and code regularly
+- 🌱 I’m currently looking to develop my skill and learn
 - 📫 Reach me via zarifazfar67@gmail.com
 
 <!---
